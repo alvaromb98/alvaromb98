@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alvaromb98
 - 👀 I’m interested in cibersecurity, web developing, data science...
 - 🌱 I’m currently studying telecomunications engineering. In my spare time I'm studying Python, MySQL, React...
-- 💞️ I’m searching for an internship in a technologic company.
+- 💞️ I’m searching for a job in a technologic company.
 - 📫 How to reach me: alvaromartinbrito@gmail.com 
 
 <!---
